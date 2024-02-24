@@ -1,0 +1,10 @@
+ipaddress,CVSS Confidentiality Requirement,CVSS Integrity Requirement,CVSS Availability Requirement,Business Owner,Technical Owner,Compliance Notes,Technical User,Asset Type,Location,Description,Weight,Business Contact
+192.168.1.2,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.3,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.1,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.4,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.5,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.6,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.7,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.8,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
+192.168.1.9,l,h,m,Network Admin,Network,Compliant by Audit Team,Zain,Firewall,220-Baker Street,DMZ Firewall,6,0900-78601
