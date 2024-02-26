@@ -1,6 +1,6 @@
 Visit the blog for step-by-step guidance on updating asset management in IBM QRadar SIEM using custom scripts. Enhance your security setup efficiently.
 
-Link: 
+Link: https://medium.com/@zainulabidin7/optimizing-asset-management-in-ibm-qradar-with-custom-scripting-a-step-by-step-guide-c7fd01829821
 
 
 gui-asset.csv : It is a sample file that needs to be imported in IBM QRadar SIEM in first place.
